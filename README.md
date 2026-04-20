@@ -1,4 +1,4 @@
-# sem-to-drawio
+# RICLPM-to-drawio
 
 An R-based utility for exporting Random Intercept Cross-lagged Panel Model (RICLPM) results to draw.io / diagrams.net-compatible XML.
 
